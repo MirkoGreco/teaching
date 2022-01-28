@@ -1,5 +1,5 @@
 /* 1. Rendere l'attributo 'id' della relazione "ordine" una chiave primaria */ 
-
+ ALTER TABLE ordine add primary key ordine; 
 
 
 /* 2. Rendere il attributo 'id' della relazione "ordine" come autoincrementante */
